@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-site web-0.1.0";
 const contentToCache = [
-    "Build/web.loader.js",
-    "Build/web.framework.js.unityweb",
-    "Build/web.data.unityweb",
-    "Build/web.wasm.unityweb",
+    "Build/web2.loader.js",
+    "Build/web2.framework.js.unityweb",
+    "Build/web2.data.unityweb",
+    "Build/web2.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
